@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch==1.11.0+cu113 
+torchvision==0.12.0+cu113 
+torchaudio==0.11.0
+pytorch-lightning==1.8.0
+soundfile==0.10.3.post1
+tensorboard==2.9.1
+transformers
