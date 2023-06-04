@@ -6,3 +6,4 @@ pytorch-lightning==1.8.0
 soundfile==0.10.3.post1
 tensorboard==2.9.1
 transformers
+pyworld
